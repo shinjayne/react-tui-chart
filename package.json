@@ -1,0 +1,23 @@
+{
+  "name": "react-tui-chart",
+  "version": "0.1.0",
+  "description": "toast ui Chart React Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tui-chart",
+    "toast",
+    "chart",
+    "react",
+    "component"
+  ],
+  "author": "Jayne Shin",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.0",
+    "tui-chart": "^3.0.1"
+  }
+}
